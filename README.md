@@ -75,6 +75,41 @@ Machine Learning Engineer / Developer Advocate
 
 ---
 
+## Recent Talks & Workshops
+
+**[Escape Hatches: Urgent Anti-Censorship Solutions](https://ethcc.io/archives/escape-hatches-urgent-anti-censorship-solutions)** - ETHCC 2024, Brussels  
+**Devcon Bangkok** - Starknet workshops and technical sessions  
+**ETHPrague** - Cairo and ZK development workshops
+
+---
+
+## Education & Courses
+
+**[Platzi AI Courses](https://platzi.com/profes/espejelomar/)** - 4 top-rated courses  
+![Rating](https://img.shields.io/badge/Rating-5.0⭐-yellow) ![Students](https://img.shields.io/badge/Reviews-325%2B-blue)  
+5-star average across 325+ student reviews
+
+- Introduction to NLP with Hugging Face
+- Sentence Transformers and Embeddings
+- Model Fine-tuning
+- fastai Integration
+
+---
+
+## Latest Activity
+
+**December 2024**  
+- Organizing [Re{solve} Hackathon](https://resolve-starknet.devpost.com/) judging (Bitcoin, Privacy/ZK, Mobile-first tracks)  
+- Building [Starknet Privacy Toolkit](https://github.com/omarespejel/starknet-privacy-toolkit) - Tongo + ZK attestations  
+- Leading Starknet Book maintenance (800+ stars)
+
+**November 2024**  
+- Delivered technical workshops at Devcon Bangkok  
+- Published [migration guide](https://github.com/omarespejel/immutablex-starknet-migration): ImmutableX → Starknet  
+- Shipped [p256-verifier](https://github.com/omarespejel/p256-verifier) for Ethereum passkey signatures
+
+- ---
+
 ## Philosophy
 
 Code over slides. Working demos over whitepapers. Open source over closed systems.
