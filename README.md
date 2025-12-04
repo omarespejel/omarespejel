@@ -12,8 +12,7 @@ Developer Advocate leading ecosystem growth
 
 - Led [Starknet Book](https://book.starknet.io/) to 800+ GitHub stars, primary resource for 1000s of Cairo developers
   ![Stars](https://img.shields.io/github/stars/starknet-edu/starknetbook?style=social)
-- Running [Re{solve} hackathon](https://resolve-starknet.devpost.com/) - **2x participants** vs previous hackathons (Winter, Reignite), **2x submissions**, record sponsorship from Cartridge, Xverse, Ekubo, and 15+ partners across Bitcoin, Privacy/ZK, Mobile-first tracks
-  ![Hackathon](https://img.shields.io/badge/Re%7Bsolve%7D-Live-brightgreen)
+- Organized [Re{solve} hackathon](https://resolve-starknet.devpost.com/) from scratch - **onboarded 1000s of developers** to Starknet, **2x participants** vs previous hackathons (Winter, Reignite), **2x submissions**, record sponsorship from Cartridge, Xverse, Ekubo, and 15+ partners across Bitcoin, Privacy/ZK, Mobile-first tracks  ![Hackathon](https://img.shields.io/badge/Re%7Bsolve%7D-Live-brightgreen)
 - Building privacy infrastructure: Tongo integration + ZK attestation toolkit
 - Delivered technical workshops at ETHCC, Devcon, ETHPrague
 - Secured ~75k USD in grants (Ethereum Foundation + Obol Collective) for [Restake Watch](https://restake.watch/)
