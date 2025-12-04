@@ -3,12 +3,6 @@
 
 I scale developer ecosystems through code, education, and community.
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarespejel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-
-</div>
-
 ---
 
 ## Track Record
@@ -18,7 +12,7 @@ Developer Advocate leading ecosystem growth
 
 - Led [Starknet Book](https://book.starknet.io/) to 800+ GitHub stars, primary resource for 1000s of Cairo developers
   ![Stars](https://img.shields.io/github/stars/starknet-edu/starknetbook?style=social)
-- Running [Re{solve} hackathon](https://resolve-starknet.devpost.com/) across Bitcoin, Privacy/ZK, Mobile-first tracks
+- Running [Re{solve} hackathon](https://resolve-starknet.devpost.com/) - **2x participants** vs previous hackathons (Winter, Reignite), **2x submissions**, record sponsorship from Cartridge, Xverse, Ekubo, and 15+ partners across Bitcoin, Privacy/ZK, Mobile-first tracks
   ![Hackathon](https://img.shields.io/badge/Re%7Bsolve%7D-Live-brightgreen)
 - Building privacy infrastructure: Tongo integration + ZK attestation toolkit
 - Delivered technical workshops at ETHCC, Devcon, ETHPrague
