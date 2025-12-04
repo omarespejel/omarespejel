@@ -3,6 +3,12 @@
 
 I scale developer ecosystems through code, education, and community.
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarespejel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+
+</div>
+
 ---
 
 ## Track Record
@@ -11,15 +17,19 @@ I scale developer ecosystems through code, education, and community.
 Developer Advocate leading ecosystem growth
 
 - Led [Starknet Book](https://book.starknet.io/) to 800+ GitHub stars, primary resource for 1000s of Cairo developers
+  ![Stars](https://img.shields.io/github/stars/starknet-edu/starknetbook?style=social)
 - Running [Re{solve} hackathon](https://resolve-starknet.devpost.com/) across Bitcoin, Privacy/ZK, Mobile-first tracks
+  ![Hackathon](https://img.shields.io/badge/Re%7Bsolve%7D-Live-brightgreen)
 - Building privacy infrastructure: Tongo integration + ZK attestation toolkit
 - Delivered technical workshops at ETHCC, Devcon, ETHPrague
 - Secured ~75k USD in grants (Ethereum Foundation + Obol Collective) for [Restake Watch](https://restake.watch/)
+  ![Grants](https://img.shields.io/badge/Grants-$75k-blue)
 
 **Hugging Face** (Previously)  
 Machine Learning Engineer / Developer Advocate
 
 - Created 4 top-rated AI courses on [Platzi](https://platzi.com/profes/espejelomar/) (5-star avg across 325+ opinions)
+  ![Rating](https://img.shields.io/badge/Rating-5.0★-yellow)
 - Authored core educational content: [embeddings guide](https://huggingface.co/blog/getting-started-with-embeddings), model fine-tuning, fastai integration
 - Scaled NLP adoption through hands-on tutorials and documentation
 
@@ -41,9 +51,25 @@ Machine Learning Engineer / Developer Advocate
 
 ## Technical Stack
 
-**Current:** Cairo, Starknet, Zero-Knowledge (Noir, Garaga, Barretenberg), TypeScript, Rust  
-**Previous:** Python, PyTorch, Transformers, NLP, Machine Learning  
-**Always:** Technical writing, developer tooling, open source
+<div align="center">
+
+### Current
+![Cairo](https://img.shields.io/badge/Cairo-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDdWMTdMMTIgMjJWMTJMMiA3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTIyIDdWMTdMMTIgMjJWMTJMMjIgN1oiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==)
+![Starknet](https://img.shields.io/badge/Starknet-000000?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Zero Knowledge](https://img.shields.io/badge/Zero--Knowledge-8B5CF6?style=for-the-badge)
+
+### Previous
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+
+### Always
+![Technical Writing](https://img.shields.io/badge/Technical_Writing-📝-lightgrey?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-❤️-red?style=for-the-badge)
+
+</div>
 
 ---
 
