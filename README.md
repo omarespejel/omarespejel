@@ -9,16 +9,18 @@ I scale developer ecosystems through code, education, and community.
 
 **Starknet Foundation** (Current)  
 Developer Advocate leading ecosystem growth
-- Led Starknet Book to 800+ GitHub stars, primary resource for 1000s of Cairo developers
-- Running Re{solve} hackathon across Bitcoin, Privacy/ZK, Mobile-first tracks
+
+- Led [Starknet Book](https://book.starknet.io/) to 800+ GitHub stars, primary resource for 1000s of Cairo developers
+- Running [Re{solve} hackathon](https://resolve-starknet.devpost.com/) across Bitcoin, Privacy/ZK, Mobile-first tracks
 - Building privacy infrastructure: Tongo integration + ZK attestation toolkit
 - Delivered technical workshops at ETHCC, Devcon, ETHPrague
-- Secured ~75k USD in grants (Ethereum Foundation + Obol Collective) for Restake Watch
+- Secured ~75k USD in grants (Ethereum Foundation + Obol Collective) for [Restake Watch](https://restake.watch/)
 
 **Hugging Face** (Previously)  
 Machine Learning Engineer / Developer Advocate
-- Created 4 top-rated AI courses on Platzi (5-star avg across 325+ opinions)
-- Authored core educational content: embeddings guide, model fine-tuning, fastai integration
+
+- Created 4 top-rated AI courses on [Platzi](https://platzi.com/profes/espejelomar/) (5-star avg across 325+ opinions)
+- Authored core educational content: [embeddings guide](https://huggingface.co/blog/getting-started-with-embeddings), model fine-tuning, fastai integration
 - Scaled NLP adoption through hands-on tutorials and documentation
 
 **Key Impact:** Took two nascent ecosystems (Starknet, Hugging Face) from early adoption to mainstream developer adoption through technical content, tooling, and community building.
@@ -33,7 +35,7 @@ Machine Learning Engineer / Developer Advocate
 
 **Code Contributions:** I ship production code. Cairo contracts, TypeScript SDKs, Python tooling. I understand what developers need because I am one.
 
-**Community:** Host of Hacia Afuera, Spanish tech podcast. Built multilingual resources (ES/EN). Developer ecosystems are global.
+**Community:** Host of [Hacia Afuera](https://open.spotify.com/show/1BncjQN6iZKb0a5qY4MxV9), Spanish tech podcast. Built multilingual resources (ES/EN). Developer ecosystems are global.
 
 ---
 
@@ -62,6 +64,4 @@ Developer advocacy isn't marketing—it's engineering that scales through educat
 
 > "The limits of your creativity is on your technical capacity." — Omar Espejel
 
----
-
-[Website](https://espejel.cc) · [Twitter](https://x.com/espejelomar) · [LinkedIn](https://linkedin.com/in/omarespejel) · Signal: espejelomar.01
+[Website](https://espejel.cc/) · [Twitter](https://x.com/espejelomar) · [LinkedIn](https://linkedin.com/in/omarespejel) · Signal: espejelomar.01
